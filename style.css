@@ -1,0 +1,17 @@
+body{
+    argin: 0px 100px 20px 100px;
+    oder: 10px solid black;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Spline Sans', sans-serif;
+}
+/*first section start*/
+.first-section{
+    display: flex;
+    margin-left: 5%;
+    padding-right: 5%;
+}
+span{
+    color: orange
+}
+/*first section end*/
